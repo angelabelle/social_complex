@@ -63,7 +63,12 @@ let filenames = [
   "murakami.png",
   "cuphead.png",
   "grey4.png",
-  "grey5.png"
+  "grey5.png",
+  "text1.png",
+  "text2.png",
+  "text3.png",
+  "text4.png",
+  "text5.png"
 
 
 ];
